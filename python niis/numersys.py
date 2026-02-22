@@ -1,0 +1,6 @@
+print(0b101011)
+print(0o27)
+print(0xc3)
+print(hex(0o27))
+print(oct(0xc3))
+print(bin(0o27))

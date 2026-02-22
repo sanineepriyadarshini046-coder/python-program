@@ -1,0 +1,1 @@
+print("bbsr\b ctc \r puri")

@@ -1,0 +1,10 @@
+print("enter Length of a rectangle")
+L=int(input())
+print("enter Breadth of a rectanle")
+B=int(input())
+ar=2*(L+B)
+pr=L*B
+print("length=",L)
+print("breath=",B)
+print("ar=",ar)
+print("pr=",pr)
