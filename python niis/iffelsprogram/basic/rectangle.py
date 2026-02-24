@@ -1,0 +1,10 @@
+print("enter length of rectangl")
+l=int(input())
+print("enter width of rectangl")
+w=int(input())
+ar=2*(w+l)
+pr=w*l
+print("length=",l)
+print("width=",w)
+print("area=",ar)
+print("perimeter=",pr)
