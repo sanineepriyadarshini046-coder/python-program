@@ -1,0 +1,9 @@
+a="a"
+print(type(a))
+b=3.5
+print(type(b))
+print(type(5))
+d=3
+r=str(d)
+print(type(d))
+print(type(r))

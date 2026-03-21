@@ -1,0 +1,7 @@
+print("AB\t   BC")
+print("helloindia")
+print("hello\bindia")
+print("hello\rindia")
+print("\\")
+print("\\\\\\\\")
+print("\"hi\"")
