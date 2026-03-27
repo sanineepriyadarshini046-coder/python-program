@@ -1,0 +1,10 @@
+s= "welcome"
+print(s[2:5:1])
+print(s[-5:-2:1])
+print(s[2::1])
+print(s[0::1])
+print(s[0:8:1])
+print(s[-7::1])
+print(s[0::2])
+print(len(s))
+print(sorted(s))
