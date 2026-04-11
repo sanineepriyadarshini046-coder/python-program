@@ -1,9 +1,9 @@
-def add():
-   print ("enter a number")
-   no1=int(input())
-   print("enter another number")
-   no2=int(input())
-   sum=no1+no2
-   print("sum=",sum)
-add()
-add()
+def facttest(no):
+    f=1
+    while no>0:
+         f=f*no
+         no=no-1
+    print("factorial=",f)
+print("enter a number")
+no=int(input())
+facttest(no)

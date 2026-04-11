@@ -1,4 +1,4 @@
-#(4)NO RETURN VALUE WITH ARGUMENT.
+#(4) RETURN VALUE WITH ARGUMENT.
 def add(no1,no2):
 	s=no1+no2
 	return s
