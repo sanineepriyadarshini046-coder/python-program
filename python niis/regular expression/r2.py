@@ -1,0 +1,16 @@
+import re
+txt = "the rai3n in spa4i9587n"
+x1 = re.findall("[0-7]",txt)
+x2 = re.findall("[0-9][a-z]",txt)
+x3 = re.findall("[0-9][0-9]",txt)
+x4 = re.findall("[0-9]{3}",txt)
+x5 = re.findall("[0-9]+",txt)
+x6 = re.findall("[0-9]*",txt)
+x7 = re.findall("[0-9]?",txt)
+print(x1)
+print(x2)
+print(x3)
+print(x4)
+print(x5)
+print(x6)
+print(x7)
